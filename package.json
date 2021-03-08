@@ -1,0 +1,17 @@
+{
+  "name": "finapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/brunoribeiro-py/finapi.git",
+  "author": "brunoribeiro-py <the_bruno15@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemn src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
